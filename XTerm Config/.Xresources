@@ -1,0 +1,8 @@
+XTerm.termName: xterm-256color
+XTerm*background: #252236
+XTerm*faceName: Mononoki Nerd Font:bold
+XTerm*faceSize: 16
+XTerm*foreground: #b8b8fc
+XTerm*cursorColor: #cc4747
+XTerm*cursorShape: underline
+XTerm*internalBorder: 30
