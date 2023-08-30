@@ -4,4 +4,4 @@ Make sure you store the polybar config files in an extra directory i.e.
 
 .config/polybar/material/...
 
-That is, make sure all the dotfiles for polybar are contained within the "material" directory
+That is, make sure all the dotfiles for polybar are contained within the "material" directory *if you use my bspwmrc setup.
